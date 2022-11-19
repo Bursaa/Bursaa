@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+Jestem studentem AGH i tworze projekty związane z:
+Artificial Intelligence
+Big Data
+Python Development
 <!--
 **Bursaa/Bursaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
