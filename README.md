@@ -3,7 +3,7 @@ Jestem studentem AGH i tworze projekty związane z:
 Artificial Intelligence  
 Big Data  
 Python Development  
-Moja strona internetowa:  [https://bursaa.github.io/ Webpage]
+Moja strona internetowa: https://bursaa.github.io/
 <!--
 **Bursaa/Bursaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
