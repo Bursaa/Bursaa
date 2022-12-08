@@ -3,8 +3,8 @@ Jestem studentem AGH i tworze projekty związane z:
 Artificial Intelligence  
 Big Data  
 Python Development  
-Moja strona internetowa: https://bursaa.github.io/
-Fork związany z oporami aerodynamicznymi: https://github.com/Bursaa/Opory
+Moja strona internetowa: https://bursaa.github.io/  
+Fork związany z oporami aerodynamicznymi: https://github.com/Bursaa/Opory  
 <!--
 **Bursaa/Bursaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
