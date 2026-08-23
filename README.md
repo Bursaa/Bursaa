@@ -95,9 +95,7 @@ My academic background combines **physics, mathematics, computer science, numeri
 ---
 
 ## 🌐 Find Me Online
-
-* 🌍 **Website:** [bursaa.github.io](https://bursaa.github.io/)
-* 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/)
+* 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/filip-brodacz-52aaa2233/)
 * 🐙 **GitHub:** [github.com/Bursaa](https://github.com/Bursaa)
 
 ---
