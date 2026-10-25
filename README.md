@@ -4,9 +4,8 @@
 
 I'm a **Technical Physics graduate and Software Engineer** with a strong background in **Python, AI/ML, scientific computing, and backend development**.
 
-My work sits at the intersection of **software engineering, artificial intelligence, computational physics, and data processing**. I enjoy building production-oriented systems as well as exploring computational and scientific problems.
-
-Currently completing my **M.Sc. in Technical Physics** — all coursework completed, with only the Master's thesis defense remaining.
+My work sits at the intersection of **software engineering, artificial intelligence, computational physics, and data processing**. I enjoy building production-oriented systems as well as exploring computational and scientific problems. Complited my **M.Sc. in Technical Physics**.
+Currently working on LEGO Sorting Machine and Software.
 
 ---
 
