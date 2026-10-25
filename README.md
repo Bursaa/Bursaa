@@ -17,26 +17,43 @@ Currently working on LEGO Sorting Machine and Software.
 * **C / C++**
 * **JavaScript / TypeScript**
 * **SQL**
-
+* **Node.js**
+* **MATLAB**
+* **React.js**
+* **Verilog**
+* **JAVA**
+* 
 ### AI & Machine Learning
 
 * **PyTorch**
 * **TensorFlow**
 * **scikit-learn**
 * **NumPy / Pandas**
+* **Pydantic**
 * Computer Vision
 * Generative AI
 * Neural Networks & Deep Learning
+* LLM API's Integration
 
 ### Backend & Software Engineering
 
 * **Django**
 * **FastAPI**
+* **Flask**
 * **SQLAlchemy**
+* **PostgreSQL**
+* **MySQL**
+* **DataBricks**
+* Vite
+* PyTest
+* Playwright
+* Selenium
+* Prettier
+* ESLint
 * REST APIs
 * Asynchronous Python / `asyncio`
-* MySQL
 * Docker
+* Kubernetes
 * Git / GitLab CI
 * Linux / WSL
 
@@ -44,6 +61,7 @@ Currently working on LEGO Sorting Machine and Software.
 
 * **ROOT / C++**
 * **QuTiP**
+* **Kwant**
 * Numerical simulations
 * Computational physics
 * Scientific data analysis
